@@ -1,1 +1,1 @@
-# covid-dashboard
+# streamlit_dashboard
